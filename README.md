@@ -1,4 +1,5 @@
-# Tiny File Manager
+# Cusotmised By Two Ocean Media
+# Cusotmised By Adeel Mushtaq
 
 [![Live demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg?style=flat-square)](https://tinyfilemanager.github.io/demo/)
 [![Live demo](https://img.shields.io/badge/Help-Docs-lightgrey.svg?style=flat-square)](https://github.com/prasathmani/tinyfilemanager/wiki)
@@ -127,3 +128,4 @@ $ docker rm -f tinyfilemanager
 - CDN Used - _jQuery, Bootstrap, Font Awesome, Highlight js, ace js, DropZone js, and DataTable js_
 - To report a bug or request a feature, please file an [issue](https://github.com/prasathmani/tinyfilemanager/issues)
 - [Contributors](https://github.com/prasathmani/tinyfilemanager/wiki/Authors-and-Contributors)
+"# TinyFileManager" 
